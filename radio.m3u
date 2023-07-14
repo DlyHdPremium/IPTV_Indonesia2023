@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Suhsi FM
+https://stream2.jejestreaming.com:9200/stream
+
+#EXTINF:-1,I-Pro Radio
+https://stream-156.zeno.fm/khzh2yfvpfhvv?zs=0crXY4ZkRvy39jJ6FZ0Zlg
+
+#EXTINF:-1,LPPL Langkisau FM 91.2
+http://103.143.152.105:8000/live
